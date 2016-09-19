@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextTableFormatter", "TextTableFormatter\TextTableFormatter.csproj", "{1AB82B2C-FED9-491B-BC69-118D7CDFB280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextTableFormatter.ConsoleApp", "TextTableFormatter.ConsoleApp\TextTableFormatter.ConsoleApp.csproj", "{FD50F234-3FF8-48D3-871C-F087C5553CE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextTableFormatter.UnitTests", "TextTableFormatter.UnitTests\TextTableFormatter.UnitTests.csproj", "{B9A436C4-62DB-4C4D-A621-8DC4BFC31E77}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AB82B2C-FED9-491B-BC69-118D7CDFB280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB82B2C-FED9-491B-BC69-118D7CDFB280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB82B2C-FED9-491B-BC69-118D7CDFB280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB82B2C-FED9-491B-BC69-118D7CDFB280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD50F234-3FF8-48D3-871C-F087C5553CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD50F234-3FF8-48D3-871C-F087C5553CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD50F234-3FF8-48D3-871C-F087C5553CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD50F234-3FF8-48D3-871C-F087C5553CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A436C4-62DB-4C4D-A621-8DC4BFC31E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A436C4-62DB-4C4D-A621-8DC4BFC31E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A436C4-62DB-4C4D-A621-8DC4BFC31E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A436C4-62DB-4C4D-A621-8DC4BFC31E77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
