@@ -1,7 +1,8 @@
 # TextTableFormatter.NET
 
 <p><strong>Project Description</strong></p>
-<p>TextTableFormatter is a .NET porting of <a title="Java Text Table Formatter" href="http://texttablefmt.sourceforge.net/" target="_blank"> Java TextTableFormatter</a>.&nbsp;<br /> This library&nbsp;renders&nbsp;tables made of characters. The user add cells and can add format characteristics like predefined/custom table styles, text alignment, abbreviation, column width, border types, colspan, etc.</p>
+<p>TextTableFormatter is a .NET porting of <a title="Java Text Table Formatter" href="http://texttablefmt.sourceforge.net/" target="_blank"> Java TextTableFormatter</a>.&nbsp;<br /> This library&nbsp;renders&nbsp;tables made of characters. The user add cells and can add format characteristics like predefined/custom table styles, text alignment, abbreviation, column width, border types, colspan, etc. <br />Also available on <a href="https://www.nuget.org/packages/TextTableFormatter.NET/" target="_blank">NuGet</a>.</p>
+
 <p><img src="https://dariosantarelli.files.wordpress.com/2013/03/209137.jpg" alt="Screenshot" /></p>
 <p><br /> <strong>Some code examples</strong></p>
 <pre><span style="color: green;">// 1. BASIC TABLE EXAMPLE
