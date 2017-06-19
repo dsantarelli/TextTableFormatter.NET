@@ -145,3 +145,7 @@ sb.Append(</span><span style="color: #a31515;">"&lt;/pre&gt;&lt;/html&gt;"</span
 // ╟────────┴────────┼──────────╢
 // ║           Total │ $172.646 ║
 // ╚═════════════════╧══════════╝</span></pre>
+
+# License
+
+[Apache License Version 2.0](https://github.com/dsantarelli/TextTableFormatter.NET/blob/master/LICENSE.md)
