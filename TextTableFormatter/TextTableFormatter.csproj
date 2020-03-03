@@ -6,7 +6,7 @@
     <FileVersion>2.0.0.0</FileVersion>
     <Version>2.0.0</Version>
     <Authors>Dario Santarelli</Authors>
-    <Description>TextTableFormatter is a library that renders tables made of characters.</Description>
+    <Description>TextTableFormatter is a .NET porting of Java TextTableFormatter. This library renders tables made of characters. The user add cells and can add format characteristics like predefined/custom table styles, text alignment, abbreviation, column width, border types, colspan, etc.</Description>
     <Copyright>Copyright © Dario Santarelli</Copyright>
     <RepositoryUrl>https://github.com/dsantarelli/TextTableFormatter.NET</RepositoryUrl>
     <PackageReleaseNotes>TextTableFormatter.NET currently supports dotnet standard 2.0</PackageReleaseNotes>
