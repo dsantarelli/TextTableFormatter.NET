@@ -9,7 +9,7 @@
     <Description>TextTableFormatter is a library that renders tables made of characters.</Description>
     <Copyright>Copyright © Dario Santarelli</Copyright>
     <RepositoryUrl>https://github.com/dsantarelli/TextTableFormatter.NET</RepositoryUrl>
-    <PackageReleaseNotes>TextTableFormatter currently supports dotnet standard 2.0 and dotnet core 2.0</PackageReleaseNotes>
+    <PackageReleaseNotes>TextTableFormatter.NET currently supports dotnet standard 2.0</PackageReleaseNotes>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/dsantarelli/TextTableFormatter.NET</PackageProjectUrl>
     <PackageIcon>icon.png</PackageIcon>
